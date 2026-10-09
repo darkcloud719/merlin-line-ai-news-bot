@@ -4,13 +4,13 @@ Azure Functions application that generates AI and cybersecurity news digests,
 creates a workplace-English lesson, stores the results in Azure Blob Storage,
 and serves them through a LINE webhook.
 
-![alt text](image.png)
+![alt text](imgs/image-3.png)
 
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 
-![alt text](image-2.png)
+![alt text](imgs/image-2.png)
 
-![alt text](image-3.png)
+![alt text](imgs/image.png)
 
 ## 架構風格
 
@@ -47,6 +47,8 @@ prompts.py    → AI prompt 定義
 constants.py  → RSS、Blob 名稱與時區
 news_views.py → LINE Flex Message 表現層
 ```
+
+![alt text](docs/architecture.svg)
 
 ### Composition Root 與依賴注入
 
