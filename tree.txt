@@ -1,0 +1,36 @@
+├── .vscode
+│   ├── extensions.json
+│   ├── launch.json
+│   ├── settings.json
+│   └── tasks.json
+├── merlin_bot
+│   ├── __init__.py
+│   ├── config.py
+│   ├── constants.py
+│   ├── feeds.py
+│   ├── generation.py
+│   ├── jobs.py
+│   ├── line_service.py
+│   ├── models.py
+│   ├── prompts.py
+│   └── storage.py
+├── tests
+│   ├── test_config.py
+│   ├── test_generation.py
+│   ├── test_models.py
+│   └── test_views.py
+├── .env
+├── .funcignore
+├── .gitignore
+├── function_app.py
+├── generate_tree.py
+├── host.json
+├── image-1.png
+├── image-2.png
+├── image-3.png
+├── image.png
+├── local.settings.example.json
+├── local.settings.json
+├── news_views.py
+├── README.md
+└── requirements.txt

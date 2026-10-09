@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_API_KEY": "replace-me",
+    "AZURE_OPENAI_API_VERSION": "replace-me",
+    "AZURE_OPENAI_ENDPOINT": "https://replace-me.openai.azure.com/",
+    "AZURE_OPENAI_CHAT_DEPLOYMENT_NAME": "replace-me",
+    "AZURE_STORAGE_CONNECTION_STRING": "replace-me",
+    "AZURE_STORAGE_CONTAINER_NAME": "replace-me",
+    "CHANNEL_ACCESS_TOKEN": "replace-me",
+    "CHANNEL_SECRET": "replace-me"
+  }
+}
